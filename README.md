@@ -25,11 +25,14 @@ __The KISS.TS Stack__
 1. TypeScript - Scripted and typed, frontend and backend [Microsoft]
 1. ReactJS - componentized modern frontend development [Facebook]
 1. NodeJS - performant JavaScript-based runtime environment with excellent componentization and package manager [Node Foundation]
-1. Jest - easy library for JavaScript Unit testing in test-first approach with code coverage built-in. [Facebook]
 1. Koa Server - a server framework based on pluggable middleware using async-await model.
-1. PostgreSQL - The only open-source DB that is both RDBMS and Not-only-SQL: ACID, web-scale, No-SQL feature set [PostgreSQL Global Development Group]
+1. PostgreSQL - The only open-source DB that is both RDBMS and Not-only-SQL: ACID, web-scale, No-SQL feature set [PostgreSQL Global 1. Docker Containers - a SW packager and a virtualization layer that simplifies delivery and lower the cost of running a product [Docker]
+Development Group]
+
+__Test Suite__
+1. Jest - easy library for JavaScript Unit testing in test-first approach with code coverage built-in. [Facebook]
 1. Gherkin - a structured language to write automated integrated test in business requirements terms.
-1. Docker Containers - a SW packager and a virtualization layer that simplifies delivery and lower the cost of running a product [Docker]
+1. Artillery - An easy-to-use load testing toolkit. Make sure your app scalabls, performant & resilient under high load.
 
 __External tools__
 1. Git / Bitbucket - excellent source control and build pipelines management [Atlassian]
