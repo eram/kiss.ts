@@ -34,6 +34,7 @@ __The KISS.TS Stack__
 __External tools__
 1. Git / Bitbucket - excellent source control and build pipelines management [Atlassian]
 1. Jenkins - The defacto DevOPs standard tool in building Continuous Integration and Continuous Delivery pipelines.
+1. Artifactory - this is where you store components: dockers, NPM packages, snapshot builds, release builds etc.
 1. JIRA - The ultimate tool to manage software delivery flows: from agile development, to product management and support. [Atlassian]
 1. XRay - a test suite integrated into JIRA for manual and automated test planning, management and executions.
 1. Ngnix - Let IT unit handle the clustering, load-balancing, application routing, SSL offload DDOS etc.
