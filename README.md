@@ -1,16 +1,18 @@
-# kiss.ts
+# KISS.TS
 The Keep It Simple Stack (whishlist)
 
-Technology
-1. Easy componentization
-1. Few technologies
-1. Mature and simple to use
-1. Open standards
-1. Open-source (free) infra.
-1. Cloud and on-prem.
+__Technology Requirements__
+1. Few technologies and langaugues to master >> eables small full-stack teams
+1. Few infrastructure components fully integrated into a DevOps platform
+1. Easy componentization of code, modules, services and apps.
+1. Mature enough to be used in corporate software
+1. Simple to start work with and use
 1. Scalable and performant
+1. Open standards 
+1. Open-source (free) infra with an active community
+1. Deploy on Cloud and on-Prem.
 
-Language
+__One Language to Master__
 1. Scripted and typed
 1. Backend and frontend
 1. Dev, Test and Devops
@@ -19,12 +21,22 @@ Language
 1. Excellent dev tools
 1. Opinionated
 
-Stack
-1. TypeScript
-1. ReactJS
-1. NodeJS
-1. Koa Server
-1. Gherkin
-1. PostgreSQL
-1. Docker
-1. Ansible
+__The KISS.TS Stack__
+1. TypeScript - Scripted and typed, frontend and backend [Microsoft]
+1. ReactJS - componentized modern frotnend developement [Facebook]
+1. NodeJS - performant Javascript-based runtime environment with excellent componantization and package manager [Node Funcdation]
+1. Jest - easy library for Javascript Unit testing in test-first approach with code covarage built-in. [Facebook]
+1. Koa Server - a server framework based on pluggable middleware using aync-await model.
+1. PostgreSQL - The only open-source DB that is both RDBMS and Not-only-SQL: ACID, web-scale, No-SQL featureset [PostgreSQL Global Development Group]
+1. Gherkin - a strctured langauge to write automated integrated test in business requirements terms.
+1. Docker Containers - a SW packager and a virtualization layer that simplifies delivery and lower the cost of running a product [Docker]
+
+__External tools__
+1. Git / Bitbucket - excellent source control and build piplines management [Attlassian]
+1. Jenkins - The defacto DevOPs standard tool in building Continious Integration and Continious Delivery piplines.
+1. JIRA - The untimate tool to manage software delivery flows: from agile developement, to product management and support. [Attlasian]
+1. XRay - a test suite integrated into JIRA for manual and automated test planing, management and executions.
+1. Docker Swarm - easy-to-use orchestrators and cluster management, on any cloud infra [Docker]
+1. Zabbix - production enviromnent monitoring and alerting tool that IT and support love: simple, strong and creates greate visualizations.
+1. ELK stack: Logstash, ElasticSearch & Kibana - central log server that also enables creating real-time IT-monitoring and business-analytics dashboards.
+1. Google Could - because the second largest always tries harder!
