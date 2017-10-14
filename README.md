@@ -36,6 +36,7 @@ __External tools__
 1. Jenkins - The defacto DevOPs standard tool in building Continuous Integration and Continuous Delivery pipelines.
 1. JIRA - The ultimate tool to manage software delivery flows: from agile development, to product management and support. [Atlassian]
 1. XRay - a test suite integrated into JIRA for manual and automated test planning, management and executions.
+1. Ngnix - Let IT unit handle the clustering, load-balancing, application routing, SSL offload DDOS etc.
 1. Docker Swarm - easy-to-use orchestrators and cluster management, on any cloud infra [Docker]
 1. Zabbix - production environment monitoring and alerting tool that IT and support love: simple, strong and creates great visualizations.
 1. ELK stack: Logstash, ElasticSearch & Kibana - central log server that also enables creating real-time IT-monitoring and business-analytics dashboards.
