@@ -1,8 +1,8 @@
 # KISS.TS
-The Keep It Simple Stack (whishlist)
+The Keep It Simple Stack (wish list)
 
 __Technology Requirements__
-1. Few technologies and langaugues to master >> eables small full-stack teams
+1. Few technologies and languages to master >> enables small full-stack teams
 1. Few infrastructure components fully integrated into a DevOps platform
 1. Easy componentization of code, modules, services and apps.
 1. Mature enough to be used in corporate software
@@ -23,20 +23,20 @@ __One Language to Master__
 
 __The KISS.TS Stack__
 1. TypeScript - Scripted and typed, frontend and backend [Microsoft]
-1. ReactJS - componentized modern frotnend developement [Facebook]
-1. NodeJS - performant Javascript-based runtime environment with excellent componantization and package manager [Node Funcdation]
-1. Jest - easy library for Javascript Unit testing in test-first approach with code covarage built-in. [Facebook]
-1. Koa Server - a server framework based on pluggable middleware using aync-await model.
-1. PostgreSQL - The only open-source DB that is both RDBMS and Not-only-SQL: ACID, web-scale, No-SQL featureset [PostgreSQL Global Development Group]
-1. Gherkin - a strctured langauge to write automated integrated test in business requirements terms.
+1. ReactJS - componentized modern frontend development [Facebook]
+1. NodeJS - performant JavaScript-based runtime environment with excellent componentization and package manager [Node Foundation]
+1. Jest - easy library for JavaScript Unit testing in test-first approach with code coverage built-in. [Facebook]
+1. Koa Server - a server framework based on pluggable middleware using async-await model.
+1. PostgreSQL - The only open-source DB that is both RDBMS and Not-only-SQL: ACID, web-scale, No-SQL feature set [PostgreSQL Global Development Group]
+1. Gherkin - a structured language to write automated integrated test in business requirements terms.
 1. Docker Containers - a SW packager and a virtualization layer that simplifies delivery and lower the cost of running a product [Docker]
 
 __External tools__
-1. Git / Bitbucket - excellent source control and build piplines management [Attlassian]
-1. Jenkins - The defacto DevOPs standard tool in building Continious Integration and Continious Delivery piplines.
-1. JIRA - The untimate tool to manage software delivery flows: from agile developement, to product management and support. [Attlasian]
-1. XRay - a test suite integrated into JIRA for manual and automated test planing, management and executions.
+1. Git / Bitbucket - excellent source control and build pipelines management [Atlassian]
+1. Jenkins - The defacto DevOPs standard tool in building Continuous Integration and Continuous Delivery pipelines.
+1. JIRA - The ultimate tool to manage software delivery flows: from agile development, to product management and support. [Atlassian]
+1. XRay - a test suite integrated into JIRA for manual and automated test planning, management and executions.
 1. Docker Swarm - easy-to-use orchestrators and cluster management, on any cloud infra [Docker]
-1. Zabbix - production enviromnent monitoring and alerting tool that IT and support love: simple, strong and creates greate visualizations.
+1. Zabbix - production environment monitoring and alerting tool that IT and support love: simple, strong and creates great visualizations.
 1. ELK stack: Logstash, ElasticSearch & Kibana - central log server that also enables creating real-time IT-monitoring and business-analytics dashboards.
 1. Google Could - because the second largest always tries harder!
