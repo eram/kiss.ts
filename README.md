@@ -22,7 +22,7 @@ __One Language to Master__
 1. Opinionated
 
 __The KISS.TS Stack__
-1. TypeScript - Scripted and typed, frontend and backend [Microsoft]
+1. TypeScript - Simple but strong, scripted and typed, frontend and backend, excellent toolset and linter [Microsoft]
 1. ReactJS - componentized modern frontend development [Facebook]
 1. NodeJS - performant JavaScript-based runtime environment with excellent componentization and package manager [Node Foundation]
 1. Koa Server - a server framework based on pluggable middleware using async-await model.
