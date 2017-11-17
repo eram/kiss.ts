@@ -1,5 +1,6 @@
 # KISS.TS
 The Keep It Simple Stack (wish list)
+See presentsaton here: https://www.slideshare.net/ethanram/kissts-the-keep-it-simple-software-stack 
 
 __Technology Requirements__
 1. Few technologies and languages to master >> enables small full-stack teams
