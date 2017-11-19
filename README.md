@@ -1,5 +1,5 @@
 # KISS.TS
-The Keep It Simple Stack (wish list)
+The Keep It Simple Stack Software (wish list)
 
 See presentsaton here: https://www.slideshare.net/ethanram/kissts-the-keep-it-simple-software-stack 
 
@@ -16,9 +16,8 @@ __Technology Requirements__
 1. Deploy on Cloud and on-Prem.
 
 __One Coding Language__
-that one can use to do all of...
 1. Scripted and typed
-1. Backend, frontend and build
+1. Backend and frontend
 1. Dev, Test and Devops
 1. Unit test, Integration Test
 1. Excellent dev tools
