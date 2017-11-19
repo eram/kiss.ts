@@ -1,5 +1,6 @@
 # KISS.TS
 The Keep It Simple Stack (wish list)
+
 See presentsaton here: https://www.slideshare.net/ethanram/kissts-the-keep-it-simple-software-stack 
 
 __Technology Requirements__
@@ -23,7 +24,7 @@ that one can use to do all of...
 1. Excellent dev tools
 1. Opinionated
 
-__The KISS.TS - Base Stack__
+__KISS.TS - The Keep It Simple Software Stack__
 1. TypeScript - Simple but strong, scripted and typed, frontend and backend, excellent toolset and linter \[Microsoft]
 1. ReactJS - componentized modern frontend development \[Facebook]
 1. NodeJS - performant JavaScript-based runtime environment with excellent componentization and package manager \[Node Foundation]
@@ -32,22 +33,13 @@ __The KISS.TS - Base Stack__
 1. Docker Containers - a SW packager and a virtualization layer that simplifies delivery and lower the cost of running a product \[Docker]
 
 
-A bit into details of the toolset - - 
+Ok, we will need some extra tools and libraries around the core to go for a large-scale developement and deployment operations:
 
-
-__Dev Suite__
-1. NodeJS
-1. TypeScript
-1. ReactJS
-1. Koa Server
-1. Jest - easy library for JavaScript Unit testing in test-first approach with code coverage built-in. [Facebook]
+__Additional Libraries and Tools__
+1. Jest - easy library for JavaScript Unit-testing with test-first approach and code-coverage built-in. \[Facebook]
 1. Cucumber - a structured language to write automated integrated test in business requirements terms.
 1. Artillery - An easy-to-use load testing toolkit. Make sure your app scalabls, performant & resilient under high load.
 1. Selenium WDIO - 
-
-__DevOps and Infrastructure Suite__
-1. PostgreSQL
-1. Docker
 1. Docker Swarm - easy-to-use orchestrators and cluster management, on any cloud infra \[Docker]
 1. PM2 / PMX - cluster mamanger for Node, includes watchdog, auto scale-up/down, log mgmt, perfromance counters and JMX-like console.
 1. VS Code - IDE \[Microsoft]
